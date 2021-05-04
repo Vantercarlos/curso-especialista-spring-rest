@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/curso-especialista-spring-rest.iml" filepath="$PROJECT_DIR$/.idea/curso-especialista-spring-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algafood-api.iml" filepath="$PROJECT_DIR$/algafood-api.iml" />
     </modules>
   </component>
 </project>
