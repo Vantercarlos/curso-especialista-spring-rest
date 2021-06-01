@@ -8,7 +8,7 @@ import javax.persistence.*;
 @Data
 @EqualsAndHashCode(onlyExplicitlyIncluded = true)
 @Entity
-public class Cozinha {
+public class Cidade {
 
     @EqualsAndHashCode.Include
     @Id
@@ -16,4 +16,6 @@ public class Cozinha {
     private Long id;
     private String nome;
 
+    @ManyToOne
+    private Estado estado;
 }
