@@ -2,6 +2,12 @@
    AlgaFood API Rest
 </h1>
 
+<br>
+
+## :camera: Demonstração
+
+![gif](github/AlgaFood.gif)
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
